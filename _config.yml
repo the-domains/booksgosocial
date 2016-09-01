@@ -11,6 +11,10 @@ color:
     - '#6F6D6E'
     - '#FF969A'
 layout_spectrum: 0.5532146759796888
+author:
+  name: Laurence O'Bryan
+  email: lob@yourasms.com
+  url: lpobryan.com
 name: BooksGoSocial
 title: The Nuremberg Puzzle
 description: The Truth Will Out
