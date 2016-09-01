@@ -20,7 +20,7 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Adolf_Hitler'
 title: 'Adolf Hitler - Wikipedia, the free encyclopedia'
-datePublished: '2016-08-30T02:11:37.718Z'
+datePublished: '2016-08-30T02:11:37.720Z'
 dateModified: '2016-08-30T02:09:25.663Z'
 via: {}
 starred: false
