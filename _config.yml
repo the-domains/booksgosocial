@@ -1,0 +1,14 @@
+layout_spectrum: 0.5532146759796888
+typography_spectrum: 0.5413122593890876
+color:
+  brandStrength: 0.8911160409916192
+  lightness: 0.9213798735290766
+  saturation: 0.5725784017704427
+  rhythmicContrast: 0.7050322047434747
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#890000'
+    - '#6F6D6E'
+    - '#FF969A'
+name: BooksGoSocial
