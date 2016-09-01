@@ -1,76 +1,46 @@
 ---
 author:
-  - name: BooksGoSocial.com
-    url: 'https://www.youtube.com/channel/UCC8u8CRmiBTCWc-q1OZqMgg'
+  - name: +Laurence O'Bryan
+    url: 'https://plus.google.com/u/0/108607907307892677663/posts'
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+  url: 'http://lpobryan.com'
+  name: Laurence O'Bryan
+  favicon: >-
+    http://181.224.143.14/~lpobryan/lpobryan/wp-content/uploads/2013/09/Favicon2.png
+  domain: lpobryan.com
 keywords:
-  - duration
-  - views
   - nuremberg
-  - roberthjacksoncenter
-  - booksgosocial
-  - mojswiatmodeli
-  - trials
-  - goering
-  - gerald
-  - documentary
-description: 'for more information visit: http://lpobryan.com'
+  - eleni
+  - puzzle
+  - germany
+  - xii
+  - anti-foreigner
+  - near-future
+  - straight-from-the-headlines
+  - kibre
+  - pius
+description: >-
+  "A Disturbingly Exciting Read," J. Harbour Orphans are being experimented on
+  in Germany again, as the hunt for a virus that can specifically target genetic
+  traits speeds toward a breakthrough. Sean Ryan flies to Nuremberg to speak at
+  an archaeological conference. An old girlfriend, Eleni Kibre, comes to meet
+  him.
 inLanguage: en
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=zp3JTfF0VAI&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=zp3JTfF0VAI&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=zp3JTfF0VAI&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=zp3JTfF0VAI&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=zp3JTfF0VAI&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=zp3JTfF0VAI'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=zp3JTfF0VAI
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=zp3JTfF0VAI
-    package: '544007664'
-    namespace: google
-    type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=zp3JTfF0VAI&feature=youtu.be'
+app_links: []
+isBasedOnUrl: 'http://lpobryan.com/the-nuremberg-puzzle/'
 title: The Nuremberg Puzzle
-datePublished: '2016-08-30T02:37:45.673Z'
-dateModified: '2016-08-30T02:37:27.195Z'
+datePublished: '2016-08-30T02:55:12.744Z'
+dateModified: '2016-08-30T02:54:58.314Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-30-the-nuremberg-puzzle.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: MediaObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fzp3JTfF0VAI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzp3JTfF0VAI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fzp3JTfF0VAI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<article style=""><h1>The Nuremberg Puzzle</h1><p>"A Disturbingly Exciting Read," J. Harbour Orphans are being experimented on in Germany again, as the hunt for a virus that can specifically target genetic traits speeds toward a breakthrough. Sean Ryan flies to Nuremberg to speak at an archaeological conference. An old girlfriend, Eleni Kibre, comes to meet him.</p><img src="http://lpobryan.com/wp-content/uploads/2016/03/Nuremberg-Slider.png" /></article>
