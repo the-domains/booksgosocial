@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Nuremberg Puzzle]]></title>
+        <description><![CDATA[The Nuremberg Puzzle]]></description>
+        <link>https://thegrid.ai/booksgosocial/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 02:11:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/booksgosocial/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adolf Hitler - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Adolf Hitler - Wikipedia, the free encyclopedia</h1><p>Adolf Hitler was born on 20April 1889 in Braunau am Inn, a town in Austria-Hungary (in present-day Austria), close to the border with the German Empire. He was one of six children born to Alois Hitler and Klara Pölzl (1860-1907). Three of Hitler's siblings-Gustav, Ida, and Otto-died in infancy.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/615bd4d5aa8e08b3920904b60e5cb911/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fab%2FBundesarchiv_Bild_183-H1216-0500-002%252C_Adolf_Hitler.jpg%2F220px-Bundesarchiv_Bild_183-H1216-0500-002%252C_Adolf_Hitler.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Adolf_Hitler</link>
+            <guid isPermaLink="false">3265465c-c942-4639-bc16-3048b90e90b0</guid>
+            <pubDate>Tue, 30 Aug 2016 02:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Pius XII - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Pope Pius XII - Wikipedia, the free encyclopedia</h1><p>Pope Pius XII ( Italian: Pio XII), born Eugenio Maria Giuseppe Giovanni Pacelli ( Italian pronunciation: [euˈdʒɛːnjo maˈriːa dʒuˈzɛppe dʒoˈvanni paˈtʃɛlli]; 2 March 1876 - 9 October 1958), reigned as Pope from 2 March 1939 to his death in 1958.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/92fd671a5a59ab7a677a573af0a2276d/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff9%2FEugenio1882.jpg%2F150px-Eugenio1882.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Pope_Pius_XII</link>
+            <guid isPermaLink="false">8c2d1231-28b4-475c-a029-3736cd6a0eb7</guid>
+            <pubDate>Tue, 30 Aug 2016 02:10:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
