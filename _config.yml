@@ -1,20 +1,14 @@
 layout_spectrum: 0.5532146759796888
-typography_spectrum: 0.9128899862989783
+typography_spectrum: 0.5413122593890876
 color:
-  brandStrength: 0.3854140869807452
-  lightness: 0.13023414858616889
-  saturation: 0.22081733983941376
-  rhythmicContrast: 0.2389949185308069
+  brandStrength: 0.8911160409916192
+  lightness: 0.9213798735290766
+  saturation: 0.5725784017704427
+  rhythmicContrast: 0.7050322047434747
   brandColors:
-    - '#404340'
-    - '#808380'
-    - '#151815'
-    - '#646764'
-    - '#2C2C2A'
-author:
-  name: Laurence O'Bryan
-  email: lob@yourasms.com
-  url: lpobryan.com
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: BooksGoSocial
-title: The Nuremberg Puzzle
-description: The Truth Will Out
